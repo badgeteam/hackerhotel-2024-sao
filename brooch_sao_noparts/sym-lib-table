@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Simple_Addon_v2")(type "Legacy")(uri "${KIPRJMOD}/SAOv2/Simple_Addon_v2.lib")(options "")(descr ""))
+)
