@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "button_matrix")(type "KiCad")(uri "${KIPRJMOD}/button_matrix.kicad_sym")(options "")(descr ""))
+)
